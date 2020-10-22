@@ -7,7 +7,7 @@ const URL = 'https://rentall-server.herokuapp.com/'
 export const request = (method, flag = null, data = null, rest = null) => {
     const config = {
         method: method,
-        url: DEV_URL + flag ,
+        url: URL + flag ,
         data: data,
         ...rest
     }
