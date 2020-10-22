@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "pranayuma@gmail.com",
+      "password": "$2a$10$mrWCLfMRZVvqncnqN6RHyeBQn39xoVwYhXPpAqWgPJ2v7NnPy/FWG",
+      "firstname": "Pandu",
+      "lastname": "Pranayuma",
+      "id": 1
+    }
+  ],
+  "user_meta": [],
+  "stuff": [
+    {
+      "id": 6549,
+      "title": "Kamera canon 3000D",
+      "desc": "Disewakan kamera canon 3000D",
+      "cat": "elektronik",
+      "price": 100000,
+      "priceUnit": "hari",
+      "pic": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/digitalcameras/Canon_EOS_90D_Kit/Canon_EOS_90D_Kit_L_1.jpg"
+    },
+    {
+      "id": 6550,
+      "title": "Stroller bayi ukuran xl",
+      "desc": "Stroler bayi ukuran xl",
+      "cat": "rumah-tangga",
+      "price": 100000,
+      "priceUnit": "hari",
+      "pic": "https://images-na.ssl-images-amazon.com/images/I/51l8T3KNf3L._AC_SY450_.jpg"
+    },
+    {
+      "id": 6551,
+      "title": "Motor Vega ZR 2010",
+      "desc": "Motor Vega ZR 2010",
+      "cat": "kendaraan",
+      "price": 500000,
+      "priceUnit": "bulan",
+      "pic": "https://s0.bukalapak.com/img/0994552952/large/lis_bodystriping_yamaha_vega_zr_2009_hitam_.png"
+    },
+    {
+      "id": 6552,
+      "title": "Mobil Avanza 2012",
+      "desc": "Mobil Avanza 2012",
+      "cat": "kendaraan",
+      "price": 300000,
+      "priceUnit": "hari",
+      "pic": "https://imgcdn.oto.com/medium/gallery/exterior/38/2041/toyota-avanza-veloz-68312.jpg"
+    },
+    {
+      "id": "6553",
+      "title": "PS3 HDD 1TB",
+      "desc": "PS3 HDD 1TB",
+      "cat": "hobi",
+      "price": "150000",
+      "priceUnit": "hari",
+      "pic": "https://apollo-singapore.akamaized.net/v1/files/xp0trmcdh1b02-ID/image"
+    },
+    {
+      "id": "yjssz6",
+      "title": "Drone Mavic Pro",
+      "desc": "<p>Disewakan drone mavic pro</p>",
+      "cat": "elektronik",
+      "price": "1500000",
+      "priceUnit": "hari",
+      "pic": "https://i.ibb.co/4gqcRcM/a3129ae48f5d.jpg"
+    },
+    {
+      "id": "ep7bap",
+      "title": "Mesin Molen Beton",
+      "desc": "<p>Mesin Molen Beton</p>",
+      "cat": "industri",
+      "price": "500000",
+      "priceUnit": "hari",
+      "pic": "https://i.ibb.co/6HZnVx6/069f4473827f.jpg"
+    },
+    {
+      "id": "vtc05g",
+      "title": "Excavator Komatsu",
+      "desc": "<p>Excavator Komatsu</p>",
+      "cat": "industri",
+      "price": "5000000",
+      "priceUnit": "hari",
+      "pic": "https://i.ibb.co/RBLKCDN/40c824a7ae7d.jpg"
+    }
+  ],
+  "comments": [],
+  "user_rent": []
+}
